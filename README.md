@@ -34,4 +34,4 @@ The Air Reservations System is a console-based application implemented in C++ th
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/air-reservations-system.git
+   git clone https://github.com/3bwahab/airReservation.git
